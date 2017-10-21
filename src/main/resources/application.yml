@@ -1,0 +1,13 @@
+app:
+  contexts:
+    first:
+      port: 2000
+
+    second:
+      port: 3000
+
+    third:
+      port: 4000
+
+logging:
+  level.: INFO
